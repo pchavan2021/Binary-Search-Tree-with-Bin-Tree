@@ -1,0 +1,5 @@
+successfully inserted record with id 1
+id 1 title overview of hci research at vt
+date 0610051600 length 90 x 10 y 10 cost 45
+description this seminar will present an overview of hci research at vt
+keywords hci computer_science vt virginia_tech

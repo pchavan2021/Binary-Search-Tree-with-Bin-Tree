@@ -1,0 +1,53 @@
+print keyword
+insert 3
+Overview of HPC and CSE Research at VT
+1203301125     35        43  03                                           25
+      HPC      CSE      computer_science 
+Learn what kind of    research is done on HPC  and CSE at VT
+print keyword
+insert 3
+Overview of HPC and CSE Research at VT
+1203301125     35        100  02                                          25
+      HPC      CSE      computer_science 
+Learn what kind of    research is done on HPC  and CSE at VT
+print keyword
+insert 33
+Overview of HPC and CSE Research at VT
+1203301125     35        100  99                                          25
+      HPC      CSE      computer_science 
+Learn what kind of    research is done on HPC  and CSE at VT
+insert 32
+Overview of HPC and CSE Research at VT
+1203301125     325        100  33                                          25
+      HPC      CSE      computer_science 
+Learn what kind of    research is done on HPC  and CSE at VT
+insert 333
+Overview of HPC and CSE Research at VT
+1203301125     325        100  33                                          25
+      HPC      CSE      computer_science 
+Learn what kind of    research is done on HPC  and CSE at VT
+print keyword
+insert 333
+Overview of HPC and CSE Research at VT
+1203301125    0        0  0                                          25
+      HPC      CSE      computer_science 
+Learn what kind of    research is done on HPC  and CSE at VT
+print location
+insert 33
+Overview of HPC and CSE Research at VT
+1203301125     35        80  94                                           25
+      HPC      CSE      computer_science 
+Learn what kind of    research is done on HPC  and CSE at VT
+insert 32
+Overview of HPC and CSE Research at VT
+1203301125     35        80  94                                           25
+      HPC      CSE      computer_science 
+Learn what kind of    research is done on HPC  and CSE at VT
+delete 3
+print location
+delete 32
+print location
+delete 333
+delete 33
+delete 32 delete
+print location

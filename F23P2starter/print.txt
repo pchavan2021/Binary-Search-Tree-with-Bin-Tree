@@ -1,0 +1,17 @@
+insert 3
+Overview of HPC and CSE Research at VT
+1203301125     35        43  03                                           25
+      HPC      CSE      computer_science 
+Learn what kind of    research is done on HPC  and CSE at VT
+insert 3
+Overview of HPC and CSE Research at VT
+1203301125     35        43  100                                           25
+      HPC      CSE      computer_science 
+Learn what kind of    research is done on HPC  and CSE at VT
+insert 4
+Overview of HPC and CSE Research at VT
+1203301125     35        120  13                                         25
+      HPC      CSE      computer_science 
+Learn what kind of    research is done on HPC  and CSE at VT
+
+print location

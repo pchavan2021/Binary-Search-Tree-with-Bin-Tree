@@ -1,0 +1,20 @@
+input is not valid
+unknown command x
+input is not valid
+unknown command x
+input is not valid
+input is not valid
+unknown command dog
+unknown command dog
+input is not valid
+unknown command cost
+unknown print type do
+unknown print type fix
+unknown print type 1
+input is not a valid integer
+unknown command dog
+unknown command dfi
+unknown command sf
+unknown command sds
+unknown print type dos
+unknown print type delete
